@@ -1,1 +1,3 @@
-# backend-fazt
+# USER API
+
+## STACK: Typescript + Postgress + Express
